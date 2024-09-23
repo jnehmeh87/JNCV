@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 0 auto;
+  }
+  
+  .experience-item, .education-item, .project-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+  }
+
+  .centered-container {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .job-info {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column; /* Change to column layout for smaller screens */
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px; /* Add padding for spacing */
+  }
+  
+  .job-info strong {
+    font-weight: bold;
+  }
+
+  @media (max-width: 768px) { /* Adjust the breakpoint as needed */
+    .centered-container {
+      max-width: 100%;
+    }
+    .job-info {
+        flex-direction: row; /* Change back to row layout for larger screens */
+        align-items: center;
+        justify-content: space-between;
+        padding: 0; /* Remove padding for larger screens */
+      }
+  }
