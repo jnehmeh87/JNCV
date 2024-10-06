@@ -16,42 +16,47 @@ body {
     margin: 0 auto;
   }
 
-    a {
-      text-decoration: none;
-      color: inherit;
+  a {
+    text-decoration: none;
+    color: inherit;
   }
 
-  nav {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-  }
-  
-  .nav-item {
-    text-align: center;
-    padding: 10px;
-    width: 30%;
-  }
-  
-  .filmmaking {
-    background-color: #5f0099;
-    color: white;
-  }
-  
-  .retail {
-    background-color: #3400d2;
-    color: white;
-  }
-  
-  .software {
-    background-color: #0355b3;
-    color: white;
+  .project-link {
+    color: #001bb6;
   }
   
   .experience-item, .education-item, .project-item {
     border: 1px solid #ccc;
     padding: 10px;
     margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #f4f2f2a4;
+  }
+
+  /* Default styles for the about-me section */
+  #about-me {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+  }
+
+  .about-img-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  .about-img {
+    width: 80%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 90%;
+  }
+
+  .about-text {
+    flex: 2;
+    margin-left: 20px;
   }
   
   footer {
@@ -63,6 +68,11 @@ body {
 
   .centered-container {
     max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .centered-container2 {
+    max-width: 100%;
     margin: 0 auto;
   }
 
@@ -79,14 +89,76 @@ body {
     font-weight: bold;
   }
 
-  @media (max-width: 768px) { /* Adjust the breakpoint as needed */
-    .centered-container {
-      max-width: 100%;
-    }
-    .job-info {
-        flex-direction: row; /* Change back to row layout for larger screens */
-        align-items: center;
-        justify-content: space-between;
-        padding: 0; /* Remove padding for larger screens */
-      }
+  .nav-buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: 1.5em; /* Increase font size */
   }
+
+
+ .nav-buttons button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+ #experience-content {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+/* Default font size for h3 */
+h3 {
+    font-size: 1.5em; /* Adjust as needed */
+}
+
+#work-experience img {
+  width: 50%;
+  height: auto; /* Maintain aspect ratio */
+  display: block;
+  margin: 20px auto 0;
+}
+
+@media (max-width: 480px) {
+    h3 {
+        font-size: 1.1em; /* Adjust as needed */
+    }
+}
+
+/* Adjust layout for smaller screens */
+@media (max-width: 768px) { /* Adjust the breakpoint as needed */
+  .centered-container {
+    max-width: 100%;
+  }
+  .job-info {
+    flex-direction: row; /* Change back to row layout for larger screens */
+    align-items: center;
+    justify-content: space-between;
+    padding: 0; /* Remove padding for larger screens */
+  }
+  
+  h3 {
+    font-size: 1.3em; /* Adjust as needed */
+  }
+  /* Ensure images within the work experience section have a width of 100% */
+  #work-experience img {
+    width: 100%;
+  }
+
+  #about-me {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-text {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .about-img {
+    width: 100%;
+    max-width: none;
+    margin-bottom: 20px; /* Add space between image and text */
+  }
+}

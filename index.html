@@ -6,34 +6,64 @@
   </head>
   <body>
     <header>
-      <div class="centered-content" style="display: flex; align-items: center; justify-content: space-between;">
-        <div style="display: flex; align-items: center;">
-          <h1 style="margin: 0;">Jad Nehmeh</h1>
+      <div
+        class="centered-content"
+        style="
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+        "
+      >
+        <div style="display: flex; align-items: center">
+          <h1 style="margin: 0">Jad Nehmeh</h1>
         </div>
-        <div style="margin-left: auto;">
+        <div style="margin-left: auto">
           <h3><a href="index.html">Home</a></h3>
         </div>
-        <div style="margin-left: 20px;">
-          <button><a href="test.pdf" download style="text-decoration: none; color: inherit;">Download CV</a></button>
+        <div style="margin-left: 20px">
+          <button>
+            <a
+              href="test.pdf"
+              download
+              style="text-decoration: none; color: inherit"
+              >Download CV</a
+            >
+          </button>
         </div>
       </div>
     </header>
-    <section id="name" class="centered-container">
-      <nav>
-        <div class="nav-item filmmaking"><a href="filmmaking.html">Filmmaking</a></div>
-        <div class="nav-item retail"><a href="retail.html">Retail</a></div>
-        <div class="nav-item software"><a href="software.html">Software Development & E-commerce</a></div>
-      </nav>
+    <section id="about-me" class="centered-container">
+      <div class="about-img-container">
+        <img
+          src="assets/images/portrait.jpg"
+          alt="Portrait of Jad Nehmeh"
+          class="about-img"
+        />
+      </div>
+      <div class="about-text">
+        <h1>About Me</h1>
+        <p style="max-width: 90%">
+          A dynamic and versatile individual, I'm a 37-year-old Lebanese
+          entrepreneur who relocated to Sweden in 2015. With a passion for
+          creativity and innovation, I've built a successful career spanning
+          multiple industries. As a seasoned filmmaker, software developer, and
+          beauty consultant, I've honed my skills in storytelling, technical
+          problem-solving, and aesthetic appreciation. Currently, I'm excited to
+          embark on a new venture: launching my own perfume brand. Driven by a
+          desire to explore new horizons, I'm always seeking opportunities to
+          learn, grow, and contribute to the world around me.
+        </p>
+      </div>
     </section>
-    <section id="about" class="centered-container">
-      <h2>Executive Summary</h2>
-      <p>
-        Dynamic, agile, and adaptable software developer with a strong
-        foundation in full-stack development and a passion for creating
-        innovative solutions. Adept at collaborating in cross-functional teams
-        and eager to apply my coding skills and problem-solving abilities to
-        contribute effectively to software projects.
-      </p>
+    <section id="work-experience" class="centered-container">
+      <div class="nav-buttons">
+        <button onclick="showExperience('filmmaking')">Filmmaking</button>
+        <button onclick="showExperience('retail')">Retail</button>
+        <button onclick="showExperience('software')">Software Development</button>
+      </div>
+      <div id="experience-content">
+        <!-- Dynamic content will be inserted here -->
+      </div>
     </section>
     <section id="education" class="centered-container">
       <h2>Education</h2>
@@ -52,13 +82,19 @@
       </div>
     </section>
     <footer>
-        <section id="contact">
-          <h2>Contact</h2>
-          <p>Your email</p>
-          <p>Your phone number</p>
-          <p>Your LinkedIn profile</p>
-        </section>
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>Your email</p>
+        <p>Your phone number</p>
+        <p>Your LinkedIn profile</p>
+      </section>
     </footer>
     <script src="assets/js/script.js"></script>
+    <script>
+      // Call the function to show filmmaking experience on page load
+      document.addEventListener("DOMContentLoaded", function () {
+        showExperience("filmmaking");
+      });
+    </script>
   </body>
 </html>
