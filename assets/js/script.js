@@ -5,8 +5,10 @@ function showExperience(field) {
   switch (field) {
     case "filmmaking":
     content = `
-            <div style="text-align: right; margin-right: 20px;">
-              <button><a href="test.pdf" download style="text-decoration: none; color: inherit;">Download CV</a></button>
+            <div class="button-container">
+                <button id="downloadCVButton">
+                    <a href="assets/pdf/Jad-Nehmeh-filmmaking-CV.pdf" download>Download Filmmaking CV</a>
+                </button>
             </div>
             <section id="about" class="centered-container2">
               <h2>Executive Summary</h2>
@@ -61,21 +63,69 @@ function showExperience(field) {
       break;
     case "retail":
       content = `
+            <div class="button-container">
+                <button id="downloadCVButton">
+                    <a href="assets/pdf/Jad-Nehmeh-retail-CV.pdf" download>Download Retail CV</a>
+                </button>
+            </div>
+            <section id="about" class="centered-container2">
+              <h2>Executive Summary</h2>
+              <p>
+                Versatile filmmaker with a proven track record in diverse genres. Experienced in documentary, 
+                advertising, music video, short film, and corporate video production. Demonstrated expertise 
+                in lighting, camera operation, and post-production editing. Skilled at developing creative 
+                concepts within budget constraints. Seeking to leverage my skills to contribute to innovative 
+                and impactful projects.
+              </p>
+            </section>
+            <section id="skills" class="centered-container2">
+              <h2>Technical Skills</h2>
+              <ul>
+                <li>Camera Operation: DSLR, mirrorless, film cameras</li>
+                <li>Lens Knowledge: Understanding of focal lengths, apertures, and depth of field</li>
+                <li>Lighting: Knowledge of three-point lighting, natural light, and artificial lighting techniques</li>
+                <li>Audio: Sound recording, microphone selection, and audio editing</li>
+                <li>Video Editing: Proficiency in editing software (e.g., DaVinci Resolve, Adobe Premiere Pro, Final Cut Pro)</li>
+                <li>Color Grading: Understanding of color theory and color correction techniques</li>
+                <li>Screenwriting: Ability to write scripts, storyboards, and treatments</li>
+              </ul>
+              <h2>Creative Skills</h2>
+              <ul>
+                <li>Storytelling: Ability to develop engaging narratives and characters</li>
+                <li>Visual Composition: Understanding of framing, rule of thirds, and leading lines</li>
+                <li>Cinematography: Knowledge of camera angles, movement, and shot selection</li>
+                <li>Editing: Ability to pace a story effectively and create a cohesive narrative</li>
+                <li>Sound Design: Understanding of sound effects, music, and dialogue mixing</li>
+                <li>Collaboration: Ability to work effectively in teams and communicate ideas clearly</li>
+              </ul>
+              <h2>Additional Skills</h2>
+              <ul>
+                <li>Production Management: Experience in budgeting, scheduling, and logistics</li>
+                <li>Post-Production Supervision: Overseeing the post-production process</li>
+                <li>Business Development: Networking and building relationships within the industry</li>
+                <li>Marketing and Promotion: Understanding of film festivals, distribution, and online platforms</li>
+              </ul>
+            </section>
             <div class="experience-item">
-                <div class="job-info">
-                    <strong><h3>Retail Management</h3></strong>
-                    <div><strong>Retail Store</strong> | Jan 2021</div>
-                </div>
-                <ul>
-                    <li>Managed a team of sales associates</li>
-                    <li>Handled customer service and complaints</li>
-                    <li>Oversaw inventory and stock management</li>
-                </ul>
+              <div class="job-info">
+                <strong><h3>Filmmaking Project</h3></strong>
+                <div><strong>Film School</strong> | Jan 2022</div>
+              </div>
+              <ul>
+                <li>Directed and produced short films</li>
+                <li>Collaborated with a team of filmmakers</li>
+                <li>Edited videos using Adobe Premiere Pro</li>
+              </ul>
             </div>
         `;
       break;
     case "software":
       content = `
+            <div class="button-container">
+                <button id="downloadCVButton">
+                    <a href="assets/pdf/Jad-Nehmeh-software-development-CV.pdf" download>Download Software Development CV</a>
+                </button>
+            </div>
             <section id="about" class="centered-container2">
                 <h2>Executive Summary</h2>
                 <p>
@@ -102,7 +152,7 @@ function showExperience(field) {
                 <h2>Professional Experience</h2>
                 <div class="experience-item">
                     <div class="job-info">
-                        <strong><h3>Full Stack Development Project</h3></strong>
+                        <strong><h2>Full Stack Development Project</h2></strong>
                         <div><strong>Code Institute</strong> | Jan 2023</div>
                     </div>
                     <ul>
@@ -131,7 +181,7 @@ function showExperience(field) {
                 </div>
                 <div class="experience-item">
                     <div class="job-info">
-                        <strong><h3>Django Development Project</h3></strong>
+                        <strong><h2>Django Development Project</h2></strong>
                         <div><strong>Code Institute</strong> | Sep 2022</div>
                     </div>
                     <ul>
@@ -158,7 +208,7 @@ function showExperience(field) {
                 </div>
                 <div class="experience-item">
                     <div class="job-info">
-                        <strong><h3>Python Development Project</h3></strong>
+                        <strong><h2>Python Development Project</h2></strong>
                         <div><strong>Code Institute</strong> | Jan 2022</div>
                     </div>
                     <ul>
@@ -184,7 +234,7 @@ function showExperience(field) {
                 </div>
                 <div class="experience-item">
                     <div class="job-info">
-                        <strong><h3>JavaScript Development Project</h3></strong>
+                        <strong><h2>JavaScript Development Project</h2></strong>
                         <div><strong>Code Institute</strong> | Jul 2022</div>
                     </div>
                     <ul>
@@ -207,7 +257,7 @@ function showExperience(field) {
                 </div>
                 <div class="experience-item">
                     <div class="job-info">
-                        <strong><h3>HTML & CSS Development Project</h3></strong>
+                        <strong><h2>HTML & CSS Development Project</h2></strong>
                         <div><strong>Code Institute</strong> | Sep 2021</div>
                     </div>
                     <ul>
