@@ -137,8 +137,23 @@ body {
   background-color: #0056b3; /* Darker shade on hover, adjust as per your nav */
 }
 
- #experience-content, #education-content {
-    border: 1px solid #ccc;
+ #experience-content {
+    border: 1px solid #cccccc;
+    padding: 20px;
+}
+
+ #education-content {
+    border: 1px solid #9e0000;
+    padding: 20px;
+}
+
+ #skills-content {
+    border: 1px solid #ffd500;
+    padding: 20px;
+}
+
+ #experiences-content {
+    border: 1px solid #00ff44;
     padding: 20px;
 }
 
