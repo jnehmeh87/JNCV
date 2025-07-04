@@ -156,6 +156,11 @@ body {
     border: 1px solid #00ff44;
     padding: 20px;
 }
+ 
+#projects-content {
+    border: 1px solid #0004ff;
+    padding: 20px;
+}
 
 /* Default font size for h3 */
 h3 {
@@ -168,6 +173,32 @@ h3 {
   display: block;
   margin: 20px auto 0;
 }
+
+.reel-grid-container {
+   display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); /* Adjusted min-width for smaller screens */
+    gap: 15px; /* Reduced space between the reels */
+    justify-items: center; /* Center each reel within its grid cell */
+    align-items: start; /* Align reels to the top of their cell */
+    max-width: 100%; /* Allow full width on smaller screens */
+    margin: 0 auto; /* Center the entire grid container */
+    padding: 10px; /* Add some padding to the container */
+}
+
+/* Target the blockquote directly to override Instagram's inline styles */
+.reel-grid-container .instagram-media {
+  /* Override inline width settings for better responsiveness */
+  width: 100% !important; /* Make it take full width of its grid cell */
+  max-width: 400px !important; /* Instagram's default max-width for reference */
+  min-width: 200px !important; /* Instagram's default min-width for reference */
+  /* Remove the margin Instagram adds, as gap handles spacing */
+  margin: 0 !important;
+  box-sizing: border-box;
+}
+
+/* No specific media queries needed for grid-template-columns with auto-fit/minmax,
+   as it handles responsiveness automatically. You can add them if you want more
+   fine-grained control (e.g., forcing 1 column below a certain breakpoint). */
 
 @media (max-width: 425px) {
   h3 {
@@ -257,5 +288,18 @@ h3 {
     width: 100%;
     max-width: none;
     margin-bottom: 20px; /* Add space between image and text */
+  }
+}
+
+@media (max-width: 900px) { /* Adjust the breakpoint as needed */
+  .reel-grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjusted min-width for smaller screens */
+    gap: 15px; /* Reduced space between the reels */
+    justify-items: center; /* Center each reel within its grid cell */
+    align-items: start; /* Align reels to the top of their cell */
+    max-width: 100%; /* Allow full width on smaller screens */
+    margin: 0 auto; /* Center the entire grid container */
+    padding: 10px; /* Add some padding to the container */
   }
 }
