@@ -13,11 +13,10 @@ function showExperience(field) {
             <section id="about" class="centered-container2">
               <h2>Executive Summary</h2>
               <p>
-                Versatile filmmaker with a proven track record in diverse genres. Experienced in documentary, 
-                advertising, music video, short film, and corporate video production. Demonstrated expertise 
-                in lighting, camera operation, and post-production editing. Skilled at developing creative 
-                concepts within budget constraints. Seeking to leverage my skills to contribute to innovative 
-                and impactful projects.
+                Dynamic and versatile filmmaker with 17 years of extensive experience across all stages of production, 
+                from directing and producing to cinematography and post-production. Adept at leading projects, mentoring 
+                teams, and leveraging a comprehensive understanding of audiovisual storytelling. Passionate about creating 
+                compelling visual content and eager to apply a broad skill set to diverse filmmaking endeavors.
               </p>
             </section>
             <section id="skills" class="centered-container2">
