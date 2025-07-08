@@ -10,19 +10,23 @@ function showExperience(field) {
                     <a href="assets/pdf/Jad-Nehmeh-filmmaking-CV.pdf" download>Download Filmmaking CV</a>
                 </button>
             </div>
-            <section id="about" class="centered-container2">
+            <section id="about">
               <h2>Executive Summary</h2>
-              <p>
-                Dynamic and versatile filmmaker with 17 years of extensive experience across all stages of production, 
-                from directing and producing to cinematography and post-production. Adept at leading projects, mentoring 
-                teams, and leveraging a comprehensive understanding of audiovisual storytelling. Passionate about creating 
-                compelling visual content and eager to apply a broad skill set to diverse filmmaking endeavors.
-              </p>
+              <div id="summary-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
+                <div class="summary-item">
+                  <p>
+                    Dynamic and versatile filmmaker with 17 years of extensive experience across all stages of production, 
+                    from directing and producing to cinematography and post-production. Adept at leading projects, mentoring 
+                    teams, and leveraging a comprehensive understanding of audiovisual storytelling. Passionate about creating 
+                    compelling visual content and eager to apply a broad skill set to diverse filmmaking endeavors.
+                  </p>
+                </div>
+              </div>
             </section>
-            <section id="skills" class="centered-container2">
+            <section id="skills">
               <h2>Skills</h2>
               <div id="skills-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
-                <div class="education-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #ffd50071; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+                <div class="education-item">
                   <h4>Technical Skills</h4>
                   <p><strong>Camera Operation</strong>: DSLR, mirrorless, film cameras</p>
                   <p><strong>Lens Knowledge</strong>: Understanding of focal lengths, apertures, and depth of field</p>
@@ -32,7 +36,7 @@ function showExperience(field) {
                   <p><strong>Color Grading</strong>: Understanding of color theory and color correction techniques</p>
                   <p><strong>Screenwriting</strong>: Ability to write scripts, storyboards, and treatments</p>
                 </div>
-                <div class="education-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #ffd50071; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+                <div class="education-item">
                   <h4>Creative Skills</h4>
                   <p><strong>Storytelling</strong>: Ability to develop engaging narratives and characters</p>
                   <p><strong>Visual Composition</strong>: Understanding of framing, rule of thirds, and leading lines</p>
@@ -41,7 +45,7 @@ function showExperience(field) {
                   <p><strong>Sound Design</strong>: Understanding of sound effects, music, and dialogue mixing</p>
                   <p><strong>Collaboration</strong>: Ability to work effectively in teams and communicate ideas clearly</p>
                 </div>
-                <div class="education-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #ffd50071; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
+                <div class="education-item">
                   <h4>Additional Skills</h4>
                   <p><strong>Production Management</strong>: Experience in budgeting, scheduling, and logistics</p>
                   <p><strong>Post-Production Supervision</strong>: Overseeing the post-production process</p>
@@ -50,31 +54,31 @@ function showExperience(field) {
                 </div>
               </div>
             </section>
-            <section id="experience" class="centered-container2">
+            <section id="experience">
               <h2>Work Experiences</h2>
               <div id="experiences-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
-              <div class="experience-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #00ff447d; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 44, 2, 0.1);">
+              <div class="experience-item">
                 <h4>OWNER | JAD NEHMEH ENSKILD FIRMA</h4>
                 <h5>STOCKHOLM | SINCE APR 2019</h5>
                 <p>Spearheaded an independent tourism project, managing all aspects of film production.</p>
                 <p>Undertook numerous freelance commissions for organizations including RFSL Ungdom, Mentora, CIS Films, Pop Films, and Beauty Bizz, serving as producer, director, editor, camera operator, and drone operator.</p>
                 <p>Maintained and utilized a comprehensive suite of production equipment for various projects.</p>
               </div>
-              <div class="experience-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #00ff447d; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 44, 2, 0.1);">
+              <div class="experience-item">
                 <h4>POST-PRODUCER | EDITOR</h4>
                 <h5>LEBANON, MIDDLE EAST & STOCKHOLM | SINCE 2006</h5>
                 <p>Developed advanced proficiency in film editing, transitioning into a skilled post-producer.</p>
                 <p>Delivered high-quality post-production for a diverse range of projects, including music video clips, documentaries, advertisements, reality shows, TV programs, and short films.</p>
                 <p>Collaborated as a freelancer with esteemed production houses such as Beirut - Studio Vision, Kolja Post-production, Periba Production, Hani Khashfeh Production, Extreme Advertisement (Lebanon); Aflam Production (Riyadh); and Bahar Pars, Wafa Jamil, Shari Sabel Strandmark (Sweden).</p>
               </div>
-              <div class="experience-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #00ff447d; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 44, 2, 0.1);">
+              <div class="experience-item">
                 <h4>DIRECTOR & PRODUCTION LEADER</h4>
                 <h5>MIDDLE EAST & STOCKHOLM | SINCE 2006</h5>
                 <p>Directed the music video "If I had the power" in 2022, showcasing creative vision and leadership.</p>
                 <p>Served as Assistant Director and Producer for various music video productions.</p>
                 <p>Advanced to directing projects in 2012 and subsequently managed production for the "reality show - Ma3 Rabab" in 2014, filmed across Europe and personally post-produced.</p>
               </div>
-              <div class="experience-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #00ff447d; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 44, 2, 0.1);">
+              <div class="experience-item">
                 <h4>FREELANCER | MY LIFE IS A FILM</h4>
                 <h5>VALLINGBY MUNICIPALITY | JAN 2019 - MAY 2019</h5>
                 <p>Contributed to a project focused on empowering young individuals to experience filmmaking.</p>
@@ -83,9 +87,34 @@ function showExperience(field) {
               </div>
               </div>
             </section>
-            <section id="projects" class="centered-container2">
+            <section id="education">
+              <h2>Education</h2>
+              <div id="education-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
+              <div class="education-item">
+                <h4>Diploma in Full Stack Software Development, E-commerce & Marketing</h4>
+                <p>Code Institute</p>
+                <p>February 2023 Credit Rated by The University of the West of Scotland</p>
+              </div>
+              <div class="education-item">
+                <h4>Swedish 2 (Sva 2)</h4>
+                <p>Komvux Hermods AB, Stockholm, Sweden</p>
+                <p>October 2021</p>
+              </div>
+              <div class="education-item">
+                <h4>English 6</h4>
+                <p>Komvux Hermods AB, Stockholm, Sweden</p>
+                <p>October 2020</p>
+              </div>
+              <div class="education-item">
+                <h4>Audiovisual Cinematography</h4>
+                <p>AKU, Lebanon</p>
+                <p>June 2009</p>
+              </div>
+              </div>
+            </section>
+            <section id="projects">
               <h2>Projects</h2>
-              <div class="project-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #0004ff86; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); text-align: center;">
+              <div class="project-item">
                 <h4>Min resa med RFSL Ungdom!</h4>
                 <h5>RFSL Ungdom 2025 | Stockholm</h5>
                 <div class="reel-grid-container">
@@ -153,58 +182,33 @@ function showExperience(field) {
                 </div>
               </div>
               <div id="projects-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
-              <div class="project-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #0004ff86; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); text-align: center;">
+              <div class="project-item">
                 <h4>If I had the Power</h4>
                 <h5>RFSL Ungdom 2023 | Stockholm</h5>
                 <a href="https://www.youtube.com/embed/TbKMOsnkXkA" target="_blank" style="display: inline-block;">
                   <iframe width="400" height="225" src="https://www.youtube.com/embed/TbKMOsnkXkA" title="If I had the Power | RFSL Ungdom | Newcomers Youth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: auto;"></iframe>
                 </a>
               </div>
-              <div class="project-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #0004ff86; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); text-align: center;">
+              <div class="project-item">
                 <h4>If I had the Power</h4>
                 <h5>RFSL Ungdom 2023 | Stockholm</h5>
                 <a href="https://www.youtube.com/embed/TbKMOsnkXkA" target="_blank" style="display: inline-block;">
                   <iframe width="400" height="225" src="https://www.youtube.com/embed/TbKMOsnkXkA" title="If I had the Power | RFSL Ungdom | Newcomers Youth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: auto;"></iframe>
                 </a>
               </div>
-              <div class="project-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #0004ff86; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); text-align: center;">
+              <div class="project-item">
                 <h4>If I had the Power</h4>
                 <h5>RFSL Ungdom 2023 | Stockholm</h5>
                 <a href="https://www.youtube.com/embed/TbKMOsnkXkA" target="_blank" style="display: inline-block;">
                   <iframe width="400" height="225" src="https://www.youtube.com/embed/TbKMOsnkXkA" title="If I had the Power | RFSL Ungdom | Newcomers Youth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: auto;"></iframe>
                 </a>
               </div>
-              <div class="project-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #0004ff86; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); text-align: center;">
+              <div class="project-item">
                 <h4>If I had the Power</h4>
                 <h5>RFSL Ungdom 2023 | Stockholm</h5>
                 <a href="https://www.youtube.com/embed/TbKMOsnkXkA" target="_blank" style="display: inline-block;">
                   <iframe width="400" height="225" src="https://www.youtube.com/embed/TbKMOsnkXkA" title="If I had the Power | RFSL Ungdom | Newcomers Youth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: auto;"></iframe>
                 </a>
-              </div>
-              </div>
-            </section>
-            <section id="education" class="centered-container2">
-              <h2>Education</h2>
-              <div id="education-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
-              <div class="education-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #9e000077; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
-                <h4>Diploma in Full Stack Software Development, E-commerce & Marketing</h4>
-                <p>Code Institute</p>
-                <p>February 2023 Credit Rated by The University of the West of Scotland</p>
-              </div>
-              <div class="education-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #9e000077; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
-                <h4>Swedish 2 (Sva 2)</h4>
-                <p>Komvux Hermods AB, Stockholm, Sweden</p>
-                <p>October 2021</p>
-              </div>
-              <div class="education-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #9e000077; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
-                <h4>English 6</h4>
-                <p>Komvux Hermods AB, Stockholm, Sweden</p>
-                <p>October 2020</p>
-              </div>
-              <div class="education-item" style="flex: 1 1 300px; margin: 10px; padding: 15px; border: 1px solid #9e000077; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
-                <h4>Audiovisual Cinematography</h4>
-                <p>AKU, Lebanon</p>
-                <p>June 2009</p>
               </div>
               </div>
             </section>
@@ -217,7 +221,7 @@ function showExperience(field) {
                     <a href="assets/pdf/Jad-Nehmeh-retail-CV.pdf" download>Download Retail CV</a>
                 </button>
             </div>
-            <section id="about" class="centered-container2">
+            <section id="about">
               <h2>Executive Summary</h2>
               <p>
                 Versatile filmmaker with a proven track record in diverse genres. Experienced in documentary, 
@@ -227,7 +231,7 @@ function showExperience(field) {
                 and impactful projects.
               </p>
             </section>
-            <section id="skills" class="centered-container2">
+            <section id="skills">
               <h2>Technical Skills</h2>
               <ul>
                 <li>Camera Operation: DSLR, mirrorless, film cameras</li>
@@ -275,7 +279,7 @@ function showExperience(field) {
                     <a href="assets/pdf/Jad-Nehmeh-software-development-CV.pdf" download>Download Software Development CV</a>
                 </button>
             </div>
-            <section id="about" class="centered-container2">
+            <section id="about">
                 <h2>Executive Summary</h2>
                 <p>
                     Dynamic, agile, and adaptable software developer with a strong
@@ -285,7 +289,7 @@ function showExperience(field) {
                     contribute effectively to software projects.
                 </p>
             </section>
-            <section id="skills" class="centered-container2">
+            <section id="skills">
                 <h2>Technical Skills</h2>
                 <ul>
                     <li>Programming Languages: HTML, CSS, JavaScript, Python</li>
@@ -297,7 +301,7 @@ function showExperience(field) {
                     <li>Web Marketing and SEO</li>
                 </ul>
             </section>
-            <section id="experience" class="centered-container2">
+            <section id="experience">
                 <h2>Professional Experience</h2>
                 <div class="experience-item">
                     <div class="job-info">

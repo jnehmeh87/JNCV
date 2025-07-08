@@ -1,14 +1,57 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
     margin: 0;
     padding: 0;
   }
   
   header {
     text-align: center;
-    padding: 20px;
-    background-color: #333;
-    color: white;
+    padding: 5px; /* Reduced padding for smaller top space */
+  }
+  
+  h1, h2 {
+    font-family: 'Tajawal', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+  }
+
+  #logo {
+      float: left;
+      font-size: 220%;
+      margin-left: 40px;
+      color: rgb(92, 83, 171);
+  }
+
+  #menu {
+      font-size: 110%;
+      letter-spacing: 7px;
+  }
+
+  #menu, #logo {
+      line-height: 75px;
+  }
+
+  #menu li {
+      float: right;
+      list-style-type: none;
+      margin-right: 30px;
+  }
+
+  #menu a {
+      text-decoration: none;
+      color: inherit;
+  }
+
+  #menu a:hover {
+      background-color: rgba(153, 144, 235, 0.7);
+      
+  }
+
+  .active {
+      border-bottom: 1px solid #3a3a3a;
   }
   
   section {
@@ -22,15 +65,17 @@ body {
   }
 
   .project-link {
-    color: #001bb6;
+    color: rgba(122, 114, 194, 0.923);
   }
   
-  .experience-item, .education-item, .project-item {
-    border: 1px solid #ccc;
+  .summary-item, .experience-item, .education-item, .project-item {
     padding: 10px;
     margin-bottom: 20px;
-    border-radius: 5px;
-    background-color: #f4f2f2a4;
+    background-color: rgba(223, 192, 232, 0.105);
+    flex: 1 1 300px;
+    margin: 10px;
+    border: 1px solid #8c00ff79;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
   }
 
   /* Default styles for the about-me section */
@@ -39,6 +84,7 @@ body {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap; /* Allow wrapping for smaller screens */
+    margin-top: 50px; /* Add margin to position it under the header */
   }
 
   .about-img-container {
@@ -67,13 +113,9 @@ body {
   }
 
   .centered-container {
-    max-width: 80%;
+    max-width: 95%;
     margin: 0 auto;
-  }
-
-  .centered-container2 {
-    max-width: 100%;
-    margin: 0 auto;
+    width: 100%;
   }
 
   .job-info {
@@ -89,38 +131,15 @@ body {
     font-weight: bold;
   }
 
-  .nav-buttons {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-  }
-
-
- /* Base styles for buttons to ensure they look good on all devices */
-  .nav-buttons button {
-    padding: 10px 20px; /* Increase padding */
-    font-size: 16px; /* Increase font size */
-    margin: 5px; /* Add some space around buttons */
-    cursor: pointer; /* Change cursor to pointer to indicate clickable */
-    border: none; /* Remove border */
-    background-color: #007bff; /* Example background color */
-    color: white; /* Text color */
-    border-radius: 5px; /* Rounded corners */
-    transition: background-color 0.3s; /* Smooth background color transition on hover */
-  }
-
-  .nav-buttons button:hover {
-    background-color: #0056b3; /* Darker shade on hover for better interaction feedback */
-}
 
 .button-container {
-  text-align: right;
+  text-align: center;
   margin-right: 20px;
 }
 
 #downloadCVButton {
   padding: 10px 20px; /* Adjust padding as per your nav design */
-  background-color: #007bff; /* Example background color, match with your nav */
+  background-color: #9d00ff; /* Example background color, match with your nav */
   color: white; /* Text color, match with your nav */
   border: none;
   border-radius: 5px; /* Adjust as per your nav design */
@@ -134,33 +153,34 @@ body {
 }
 
 #downloadCVButton:hover {
-  background-color: #0056b3; /* Darker shade on hover, adjust as per your nav */
+  background-color: #480171; /* Darker shade on hover, adjust as per your nav */
 }
 
- #experience-content {
-    border: 1px solid #cccccc;
-    padding: 20px;
+#experience-content {
+ padding: 10px;
+}
+/*
+#skills-content {
+ border: 1px solid #ffd500;
+ padding: 20px;
 }
 
  #education-content {
-    border: 1px solid #9e0000;
-    padding: 20px;
+  border: 1px solid #9e0000;
+  padding: 20px;
 }
 
- #skills-content {
-    border: 1px solid #ffd500;
-    padding: 20px;
-}
 
  #experiences-content {
-    border: 1px solid #00ff44;
-    padding: 20px;
+  border: 1px solid #00ff44;
+  padding: 20px;
 }
  
 #projects-content {
-    border: 1px solid #0004ff;
-    padding: 20px;
+  border: 1px solid #0004ff;
+  padding: 20px;
 }
+*/
 
 /* Default font size for h3 */
 h3 {
@@ -248,6 +268,11 @@ h3 {
   .centered-container {
     max-width: 100%;
   }
+
+  #experience-content {
+    border: 0px solid #cccccc;
+    padding: 10px;
+   }
 
   .nav-buttons button {
     padding: 15px 30px; /* Increase padding for larger touch targets */

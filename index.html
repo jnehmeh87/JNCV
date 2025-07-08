@@ -3,26 +3,33 @@
   <head>
     <title>Jad Nehmeh - CV</title>
     <meta name="description" content="Jad Nehmeh's CV - A dynamic and versatile individual with a passion for creativity and innovation." />
-    <meta name="keywords" content="Jad Nehmeh, CV, portfolio, filmmaker, software developer, beauty consultant" />
+    <meta name="keywords" content="Jad Nehmeh, CV, portfolio, filmmaker, software developer, beauty consultant, Sweden, Stockholm, 
+                                  creative entrepreneur, filmmaker in Stockholm, software developer in Sweden, beauty consultant in Stockholm, 
+                                  innovative projects, storytelling in film, technical skills, aesthetic design, personal branding" />
     <meta name="robots" content="index, follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="assets/css/style.css" />
   </head>
   <body>
     <header>
-      <div
-        class="centered-content"
-        style="
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          flex-direction: column;
-        "
-      >
-        <h1 style="margin: 20px 0 0 0">Jad Nehmeh</h1>
-        <p>Stockholm, Sweden</p>
-      </div>
-      </div>
+      <a href="index.html">
+          <h1 id="logo">
+            Jad Nehmeh
+          </h1>
+      </a>
+      <nav>
+          <ul id="menu">
+            <li>
+              <a onclick="showExperience('retail')">Retail</a>
+            </li>
+            <li>
+              <a onclick="showExperience('software')">Software Development</a>
+            </li>
+            <li>
+              <a onclick="showExperience('filmmaking')">Filmmaking</a>
+            </li>
+          </ul>
+      </nav>
     </header>
     <section id="about-me" class="centered-container">
       <div class="about-img-container">
@@ -48,11 +55,6 @@
       </div>
     </section>
     <section id="work-experience" class="centered-container">
-      <div class="nav-buttons">
-        <button onclick="showExperience('filmmaking')">Filmmaking</button>
-        <button onclick="showExperience('retail')">Retail</button>
-        <button onclick="showExperience('software')">Software Development</button>
-      </div>
       <div id="experience-content">
         <!-- Dynamic content will be inserted here -->
       </div>
