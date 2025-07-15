@@ -216,6 +216,14 @@ h3 {
   box-sizing: border-box;
 }
 
+#experience .experience-item .software-image {
+  width: 90%; /* Slightly smaller than the border width */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure proper layout */
+  margin: 0 auto; /* Center the image */
+  border-radius: 5px; /* Optional: Add rounded corners */
+}
+
 /* No specific media queries needed for grid-template-columns with auto-fit/minmax,
    as it handles responsiveness automatically. You can add them if you want more
    fine-grained control (e.g., forcing 1 column below a certain breakpoint). */

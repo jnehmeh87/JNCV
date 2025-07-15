@@ -168,16 +168,10 @@ function showExperience(field) {
                     <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/DFHtFWiuwkr/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by RFSL Ungdom (@rfslungdom)</a></p>
                   </div>
                 </blockquote>
-                <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFHtFWiuwkr/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
                 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DFZurJAu_zw/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
-                <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DGPsf6EvEOI/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
                 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DGU2ITvPZxM/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
-                <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DHTxVrvCrGS/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
                 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DHaXmRJzRzn/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
-                <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DJD4FNBCkbU/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
                 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DJHu_vOC8a8/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
-                <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DKv3XXzRE3Y/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
-                <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DK8vzSqiY9W/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
                 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DLB5Z7OCQkr/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:400px; min-width:200px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
                 </div>
               </div>
@@ -280,157 +274,154 @@ function showExperience(field) {
                 </button>
             </div>
             <section id="about">
-                <h2>Executive Summary</h2>
-                <p>
+              <h2>Executive Summary</h2>
+              <div id="summary-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
+                <div class="summary-item">
+                  <p>
                     Dynamic, agile, and adaptable software developer with a strong
                     foundation in full-stack development and a passion for creating
                     innovative solutions. Adept at collaborating in cross-functional teams
                     and eager to apply my coding skills and problem-solving abilities to
                     contribute effectively to software projects.
-                </p>
+                  </p>
+                </div>
+              </div>
             </section>
             <section id="skills">
-                <h2>Technical Skills</h2>
-                <ul>
-                    <li>Programming Languages: HTML, CSS, JavaScript, Python</li>
-                    <li>Full-Stack Development: Front-end and Back-end</li>
-                    <li>Databases: PostgreSQL, MySQL, MongoDB, AWS</li>
-                    <li>Frameworks & Libraries: Django, jQuery, Bootstrap, Flask</li>
-                    <li>Version Control: Heroku, GitHub, Git</li>
-                    <li>Software Testing and Debugging</li>
-                    <li>Web Marketing and SEO</li>
-                </ul>
+              <h2>Skills</h2>
+              <div id="skills-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
+                <div class="education-item">
+                  <h4>Technical Skills</h4>
+                  <p><strong>Programming Languages</strong>: HTML, CSS, JavaScript, Python</p>
+                  <p><strong>Full-Stack Development</strong>: Front-end and Back-end</p>
+                  <p><strong>Databases</strong>: PostgreSQL, MySQL, MongoDB, AWS</p>
+                  <p><strong>Frameworks & Libraries</strong>: Django, jQuery, Bootstrap, Flask</p>
+                  <p><strong>Version Control</strong>: Heroku, GitHub, Git</p>
+                  <p><strong>Software Testing and Debugging</strong></p>
+                  <p><strong>Web Marketing and SEO</strong></p>
+                </div>
+              </div>
             </section>
             <section id="experience">
-                <h2>Professional Experience</h2>
-                <div class="experience-item">
-                    <div class="job-info">
-                        <strong><h2>Full Stack Development Project</h2></strong>
-                        <div><strong>Code Institute</strong> | Jan 2023</div>
-                    </div>
-                    <ul>
-                        <li>
-                            Developed a professional filmmaking website featuring e-commerce
-                            capabilities and secure payment processing using Stripe.
-                        </li>
-                        <li>
-                            Optimizing the software development lifecycle through the
-                            implementation of Agile methodologies.
-                        </li>
-                        <li>
-                            Deployed project on Heroku and managed the database using AWS.
-                        </li>
-                        <li>
-                            Project
-                            <a href="https://ader-films.herokuapp.com" target="_blank" class="project-link"
-                            >Ader Films</a
-                            >.
-                        </li>
-                        <img
-                            src="assets/images/proj5-mockup.png"
-                            alt="Ader Films Project Mock up"
-                        />
-                    </ul>
+              <h2>Professional Experiences</h2>
+              <div id="experiences-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
+              <div class="experience-item">
+                <h4>FULL STACK DEVELOPMENT PROJECT</h4>
+                <h5>CODE INSTITUTE | JAN 2023</h5>
+                <p>Developed a professional filmmaking website featuring e-commerce
+                   capabilities and secure payment processing using Stripe.</p>
+                <p>Optimizing the software development lifecycle through the
+                   implementation of Agile methodologies.</p>
+                <p>Deployed project on Heroku and managed the database using AWS.</p>
+                <p>Project
+                    <a href="https://ader-films.herokuapp.com" target="_blank" class="project-link"
+                    >Ader Films</a
+                    >.</p>
+                <div class="software-image-container">
+                <img
+                    src="assets/images/proj5-mockup.png"
+                    alt="Ader Films Project Mock up"
+                    class="software-image"
+                />
                 </div>
-                <div class="experience-item">
-                    <div class="job-info">
-                        <strong><h2>Django Development Project</h2></strong>
-                        <div><strong>Code Institute</strong> | Sep 2022</div>
-                    </div>
-                    <ul>
-                        <li>
-                            Developed a Django app for food recipes with robust CRUD
-                            functionality and user experience features.
-                        </li>
-                        <li>
-                            Employed PostgreSQL and Cloudinary for data storage and media
-                            management.
-                        </li>
-                        <li>Deployed the app on Heroku.</li>
-                        <li>
-                            Project
-                            <a href="https://foodupmood.herokuapp.com/" target="_blank" class="project-link"
-                            >Food Mood</a
-                            >.
-                        </li>
-                        <img
-                            src="assets/images/proj4-mockup.png"
-                            alt="Food Mood Project Mock up"
-                        />
-                    </ul>
+              </div>
+              <div class="experience-item">
+                <h4>DJANGO DEVELOPMENT PROJECT</h4>
+                <h5>CODE INSTITUTE | SEP 2022</h5>
+                <p>Developed a Django app for food recipes with robust CRUD
+                    functionality and user experience features.</p>
+                <p>Employed PostgreSQL and Cloudinary for data storage and media
+                    management.</p>
+                <p>Deployed the app on Heroku.</p>
+                <p>Project
+                    <a href="https://foodupmood.herokuapp.com/" target="_blank" class="project-link"
+                    >Food Mood</a
+                    >.
+                </p>
+                <div class="software-image-container">
+                <img
+                    src="assets/images/proj4-mockup.png"
+                    alt="Food Mood Project Mock up"
+                    class="software-image"
+                />
                 </div>
-                <div class="experience-item">
-                    <div class="job-info">
-                        <strong><h2>Python Development Project</h2></strong>
-                        <div><strong>Code Institute</strong> | Jan 2022</div>
-                    </div>
-                    <ul>
-                        <li>
-                            Created a 'Quiz' game in Python, deploying it on Heroku for user
-                            testing.
-                        </li>
-                        <li>
-                            Demonstrated proficiency in deploying applications on cloud
-                            platforms.
-                        </li>
-                        <li>
-                            Project
-                            <a href="https://brain-maze.herokuapp.com/" target="_blank" class="project-link"
-                            >Brain Maze</a
-                            >.
-                        </li>
-                        <img
-                            src="assets/images/proj3-mockup.png"
-                            alt="Brain Maze Project Mock up"
-                        />
-                    </ul>
-                </div>
-                <div class="experience-item">
-                    <div class="job-info">
-                        <strong><h2>JavaScript Development Project</h2></strong>
-                        <div><strong>Code Institute</strong> | Jul 2022</div>
-                    </div>
-                    <ul>
-                        <li>
-                            Designed an interactive flag guessing game using HTML, CSS, and
-                            JavaScript, complete with scoring features.
-                        </li>
-                        <li>Published the game on GitHub.</li>
-                        <li>
-                            Project
-                            <a href="https://jnehmeh87.github.io/Project_Two/" target="_blank" class="project-link"
-                            >Guess the Flag</a
-                            >.
-                        </li>
-                        <img
-                            src="assets/images/proj2-mockup.png"
-                            alt="Guess the Flag Project Mock up"
-                        />
-                        </ul>
-                </div>
-                <div class="experience-item">
-                    <div class="job-info">
-                        <strong><h2>HTML & CSS Development Project</h2></strong>
-                        <div><strong>Code Institute</strong> | Sep 2021</div>
-                    </div>
-                    <ul>
-                        <li>
-                            Designed a website using HTML and CSS, including a Gallery and a
-                            Sign Up page.
-                        </li>
-                        <li>Published the website on GitHub.</li>
-                        <li>
-                            Project
-                            <a href="https://jnehmeh87.github.io/project_one/" target="_blank" class="project-link"
-                            >Street Photography</a
-                            >.
-                        </li>
-                        <img
-                            src="assets/images/proj1-mockup.png"
-                            alt="Street Photography Project Mock up"
-                        />
-                    </ul>
-                </div>
+              </div>
+              <div class="experience-item">
+                <h4>Python Development Project</h4>
+                <h5>CODE INSTITUTE | JAN 2022</h5>  
+                <p>Created a 'Quiz' game in Python, deploying it on Heroku for user
+                    testing.</p>
+                <p>Demonstrated proficiency in deploying applications on cloud
+                    platforms.</p>
+                <p>Project
+                    <a href="https://brain-maze.herokuapp.com/" target="_blank" class="project-link"
+                    >Brain Maze</a
+                    >.
+                </p>
+                <img
+                    src="assets/images/proj3-mockup.png"
+                    alt="Brain Maze Project Mock up"
+                    class="software-image"
+                />
+              </div>
+              <div class="experience-item">
+                <h4>JAVASCRIPT DEVELOPMENT PROJECT</h4>
+                <h5>CODE INSTITUTE | JUL 2022</h5>
+                <p>Designed an interactive flag guessing game using HTML, CSS, and
+                    JavaScript, complete with scoring features.</p>
+                <p>Published the game on GitHub.</p>
+                <p>Project
+                    <a href="https://jnehmeh87.github.io/Project_Two/" target="_blank" class="project-link"
+                    >Guess the Flag</a
+                    >.</p>
+                <img
+                    src="assets/images/proj2-mockup.png"
+                    alt="Guess the Flag Project Mock up"
+                    class="software-image"
+                />
+              </div>
+              <div class="experience-item">
+                <h4>HTML & CSS DEVELOPMENT PROJECT</h4>
+                <h5>CODE INSTITUTE | SSEP 2021</h5>
+                <p>Designed a website using HTML and CSS, including a Gallery and a
+                    Sign Up page.</p>
+                <p>Published the website on GitHub.</p>
+                <p>Project
+                    <a href="https://jnehmeh87.github.io/project_one/" target="_blank" class="project-link"
+                    >Street Photography</a
+                    >.</p>
+                <img
+                    src="assets/images/proj1-mockup.png"
+                    alt="Street Photography Project Mock up"
+                    class="software-image"
+                />
+              </div>
+              </div>
+            </section>
+            <section id="education">
+              <h2>Education</h2>
+              <div id="education-content" style="display: flex; flex-wrap: wrap; justify-content: center;">
+              <div class="education-item">
+                <h4>Diploma in Full Stack Software Development, E-commerce & Marketing</h4>
+                <p>Code Institute</p>
+                <p>February 2023 Credit Rated by The University of the West of Scotland</p>
+              </div>
+              <div class="education-item">
+                <h4>Swedish 2 (Sva 2)</h4>
+                <p>Komvux Hermods AB, Stockholm, Sweden</p>
+                <p>October 2021</p>
+              </div>
+              <div class="education-item">
+                <h4>English 6</h4>
+                <p>Komvux Hermods AB, Stockholm, Sweden</p>
+                <p>October 2020</p>
+              </div>
+              <div class="education-item">
+                <h4>Audiovisual Cinematography</h4>
+                <p>AKU, Lebanon</p>
+                <p>June 2009</p>
+              </div>
+              </div>
             </section>
         `;
       break;
